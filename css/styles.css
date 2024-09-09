@@ -83,6 +83,12 @@ footer {
   font: normal 16px/1.5 "Montserrat", sans-serif;
 }
 
+.footer-contact {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}  
+
 label.form-label {
   font: normal 16px/1.5 "Montserrat", sans-serif;
 }
