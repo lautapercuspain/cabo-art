@@ -133,7 +133,7 @@ img {
 }
 
 section.hero-section {
-  background-image: url("../public/images/artandwine-event.jpg");
+  background-image: url("../images/artandwine-event.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
